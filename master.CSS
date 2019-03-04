@@ -1,0 +1,22 @@
+body {
+    font-family: Impact;
+    color: cadetblue;
+}
+
+em#markupem {
+    background-color: blue;
+    color: red;
+}
+
+.cssfakta1 {
+    background-color: lightgrey;
+    margin: 2em;
+    padding: .20em;
+    color: cadetblue;
+    border: 5px solid black;
+    text-align: center;
+}
+
+em:hover {
+    font-size: 2em;
+}
